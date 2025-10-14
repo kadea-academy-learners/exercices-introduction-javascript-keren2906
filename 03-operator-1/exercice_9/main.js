@@ -8,6 +8,7 @@ let heritageEnfants = totalHeritage * 0.75;
 let partParEnfant = heritageEnfants/ 3;
 let paul = partParEnfant;
 let marie = partParEnfant;
+let parAlain = partParEnfant;
 let eric = parAlain / 2;
 let claire = parAlain/ 2;
 
