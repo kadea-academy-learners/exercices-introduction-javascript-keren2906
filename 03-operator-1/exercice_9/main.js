@@ -13,7 +13,7 @@ let eric = parAlain / 2;
 let claire = parAlain/ 2;
 
 let heritageDeuxiemeCategorie = totalHeritage * 0.25;
-let partParPersonneCat2 = partAutres / 3;
+let partParPersonneCat2 = heritageDeuxiemeCategorie / 3;
 
 let madameMukuna = partParPersonneCat2;
 let joseph = partParPersonneCat2;
