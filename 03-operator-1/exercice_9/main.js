@@ -23,8 +23,8 @@ console.log("RÉPARTITION DE L’HÉRITAGE DE M. JEAN MUKUNA");
 console.log(">> Première catégorie (75%) : Enfants");
 console.log("Paul :", paul, "CDF");
 console.log("Marie :", marie,  "CDF");
-console.log("Éric :", e, "CDF");
-console.log("Claire :",claire,"CDF");
+console.log("Éric :", eric, "CDF");
+console.log("Claire :", claire,"CDF");
 
 console.log(">> Deuxième catégorie (25%) : Conjoint et frères");
 console.log("Madame MUKUNA :",madameMukuna, "CDF");
