@@ -10,7 +10,7 @@ let paul = partParEnfant;
 let marie = partParEnfant;
 let parAlain = partParEnfant;
 let eric = parAlain / 2;
-let claire = parAlain/ 2;
+let clair = parAlain/ 2;
 
 let heritageDeuxiemeCategorie = totalHeritage * 0.25;
 let partParPersonneCat2 = heritageDeuxiemeCategorie / 3;
@@ -24,7 +24,7 @@ console.log(">> Première catégorie (75%) : Enfants");
 console.log("Paul :", paul, "CDF");
 console.log("Marie :", marie,  "CDF");
 console.log("Éric :", eric, "CDF");
-console.log("Claire :", claire,"CDF");
+console.log("Claire :", clair,"CDF");
 
 console.log(">> Deuxième catégorie (25%) : Conjoint et frères");
 console.log("Madame MUKUNA :",madameMukuna, "CDF");
@@ -33,5 +33,5 @@ console.log("Sarah :", sarah, "CDF");
 
 
 module.exports= {
-    paul, marie, eric, claire, madameMukuna, joseph, sarah 
+    paul, marie, eric, clair, madameMukuna, joseph, sarah 
 };
